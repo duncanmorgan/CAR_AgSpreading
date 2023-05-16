@@ -1,0 +1,16 @@
+Sample	DGE SilePath	Reads SilePath	Soup
+Q1	L:/Duncan/CAR_AgSpreading/DGEs/Q1_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/Q1_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+Q2	L:/Duncan/CAR_AgSpreading/DGEs/Q2_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/Q2_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+Q3	L:/Duncan/CAR_AgSpreading/DGEs/Q3_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/Q3_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+Q4	L:/Duncan/CAR_AgSpreading/DGEs/Q4_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/Q4_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+Q5	L:/Duncan/CAR_AgSpreading/DGEs/Q5_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/Q5_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R1	L:/Duncan/CAR_AgSpreading/DGEs/R1_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R1_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R2	L:/Duncan/CAR_AgSpreading/DGEs/R2_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R2_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R3	L:/Duncan/CAR_AgSpreading/DGEs/R3_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R3_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R4	L:/Duncan/CAR_AgSpreading/DGEs/R4_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R4_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R5	L:/Duncan/CAR_AgSpreading/DGEs/R5_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R5_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R6	L:/Duncan/CAR_AgSpreading/DGEs/R6_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R6_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R7	L:/Duncan/CAR_AgSpreading/DGEs/R7_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R7_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R8	L:/Duncan/CAR_AgSpreading/DGEs/R8_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R8_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R9	L:/Duncan/CAR_AgSpreading/DGEs/R9_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R9_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt
+R10	L:/Duncan/CAR_AgSpreading/DGEs/R10_20211028_DGE.UMI.txt	L:/Duncan/CAR_AgSpreading/DGEs/R10_20211028_readsSummary.txt	L:/Duncan/CAR_AgSpreading/DGEs/S1_20211028_soup.txt

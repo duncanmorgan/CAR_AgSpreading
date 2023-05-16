@@ -1,0 +1,16 @@
+Sample,Date,Collaborator,Treatment,TimePoint
+Q1,9/13/2021,LM,NoVax,7day
+Q2,9/13/2021,LM,NoVax,7day
+Q3,9/13/2021,LM,NoVax,7day
+Q4,9/13/2021,LM,Vax,7day
+Q5,9/13/2021,LM,Vax,7day
+R1,9/20/2021,LM,NoCART,14day
+R2,9/20/2021,LM,NoCART,14day
+R3,9/20/2021,LM,CarT,14day
+R4,9/20/2021,LM,CarT,14day
+R5,9/20/2021,LM,CarT,14day
+R6,9/20/2021,LM,CarT,14day
+R7,9/20/2021,LM,Vax,14day
+R8,9/20/2021,LM,Vax,14day
+R9,9/20/2021,LM,aIFNG,14day
+R10,9/20/2021,LM,aIFNG,14day
